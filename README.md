@@ -14,22 +14,7 @@ This project develops a traffic sign recognition application using PyQt5 for the
 - Visualization of training results, including accuracy and loss plots.
 - Ability to save the trained model for future use.
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/traffic-sign-classification.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd traffic-sign-classification
-   ```
-
-3. Install required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Dataset
 
@@ -40,19 +25,6 @@ The model is trained on a dataset containing images of 43 different traffic sign
 
 Please update the paths in the code to point to your dataset.
 
-## Usage
-
-1. To train the model, run:
-   ```bash
-   python train_model.py
-   ```
-
-2. To launch the GUI application, execute:
-   ```bash
-   python app.py
-   ```
-
-3. In the GUI, browse for traffic sign images to classify and view the results.
 
 ## Model Architecture
 
